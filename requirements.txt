@@ -1,0 +1,10 @@
+streamlit
+streamlit-ketcher
+pandas
+numpy
+rdkit
+mordred
+joblib
+scikit-learn
+openpyxl
+xlsxwriter
